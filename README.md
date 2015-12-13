@@ -1,0 +1,2 @@
+# nbp
+Node boilerplate installer
